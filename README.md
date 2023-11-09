@@ -4,7 +4,7 @@
 **rupesh4950/rupesh4950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h1>Hello All</h1>
-<marquee style="color :'blue'"><b>Thank you for visiting my site </b></marquee>
+<marquee ><b>Thank you for visiting me. </marquee>
 <br>
 - 👋 Hi, I’m @Rupesh
 <br>
