@@ -3,7 +3,7 @@
 </p>
 
 <p>
-	<b>Welcome to my git hub profice</b>
+	<b>Welcome to my git hub profile</b>
  </p>
     
  
