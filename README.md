@@ -34,15 +34,11 @@
 <img alt="Css" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=sql&logoColor=white">
  <img alt="cyber security" src="https://img.shields.io/badge/cyber security-black?style=for-the-badge&logo=sql&logoColor=white">
 </p>
-
-
 </details>
-
 <br/>
-
-<br>
-
-<br/>
+<hr>
+<p align="center"><h1>Visitors count</h1></p>
+<p align ="center"><img src="https://profile-counter.glitch.me/rupesh4950/count.svg"></p>
 
 
 
