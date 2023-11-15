@@ -29,6 +29,11 @@
   </a>
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=sql&logoColor=white"></a>
 <a href="https://www.selenium.dev/"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-green?style=for-the-badge&logo=sql&logoColor=white"></a>
+<p>
+<img alt="HTML" src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=sql&logoColor=white">
+<img alt="Css" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=sql&logoColor=white">
+ <img alt="cyber security" src="https://img.shields.io/badge/cyber security-black?style=for-the-badge&logo=sql&logoColor=white">
+</p>
 
 
 </details>
