@@ -40,8 +40,8 @@
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
   </a>
 
-
-<a href="https://www.mysql.com/"><img alt="MySQL" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*TTM5AleQfFJ-mItttJROdg.jpeg?style=for-the-badge&logo=pandas&logoColor=white"></a>
+<!--
+<a href="https://www.mysql.com/"><img alt="MySQL" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*TTM5AleQfFJ-mItttJROdg.jpeg?style=for-the-badge&logo=pandas&logoColor=white"></a> -->
 
 </details>
 
