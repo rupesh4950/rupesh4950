@@ -41,6 +41,8 @@
 <p>
  <h2>Join with me </h2>
   <img src="https://tryhackme-badges.s3.amazonaws.com/rupesh4950.png" alt="TryHackMe">
+ <p>
+ <img src="./asserts/leetcode.svg" height="50" width="50"> <b>Leat code</b></p>
 </p>
 <hr>
 <abbr title="If you are intrusted"><p align="center"><h1>Visitors count</h1></p></abbr>
