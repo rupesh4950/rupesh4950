@@ -4,7 +4,7 @@
  
    <a href="https://www.linkedin.com/in/rupesh4950" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/rupesh4950.png" alt="TryHackMe">
+    
   </a> 
   <br>
 - 👋 Hi, I’m Rupesh
@@ -38,7 +38,12 @@
 </details>
 <br/>
 <hr>
-<p align="center"><h1>Visitors count</h1></p>
+<p>
+ <h2>Join with me </h2>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/rupesh4950.png" alt="TryHackMe">
+</p>
+<hr>
+<abbr title="If you are intrusted"><p align="center"><h1>Visitors count</h1></p></abbr>
 <p align ="center"><img src="https://profile-counter.glitch.me/rupesh4950/count.svg"></p>
 
 
