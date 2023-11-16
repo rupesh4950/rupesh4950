@@ -40,9 +40,14 @@
 <hr>
 <p>
  <h2>Join with me </h2>
+
   <img src="https://tryhackme-badges.s3.amazonaws.com/rupesh4950.png" alt="TryHackMe">
- <p>
- <a href="https://leetcode.com/MRUPESH/"> <img src="./asserts/leetcode.svg" height="50" width="50"> <b>Leat code</b></p></a>
+  <p>
+ <a href="https://leetcode.com/MRUPESH/"> <img src="./asserts/leetcode.svg" height="50" width="50"> <b>Leat code</b></a>
+
+<a bgcolor="black" href="https://www.hackerrank.com/profile/mekalarupesh7981">
+ <img src="/asserts/HR.png" height="50" width="50"><b color="Black" style="background-color:Red;">Hacker Rank</b>
+</a>
 </p>
 <hr>
 <abbr title="If you are intrusted"><p align="center"><h1>Visitors count</h1></p></abbr>
