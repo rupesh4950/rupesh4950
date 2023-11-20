@@ -45,7 +45,6 @@
 <hr>
 <h2><abbr title="Refresh page get new Meme">😂 Random Dev Meme </abbr></h2>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 <hr>
 <p>
  <h2>Join with me </h2>
