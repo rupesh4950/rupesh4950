@@ -21,6 +21,7 @@
 <br>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<p>
 <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   </a>
@@ -28,12 +29,17 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
+<!--    <a href="https://www.python.org" target="_blank"> -->
+    <img alt="" src="https://img.shields.io/badge/JavaScripty-3776AB?style=for-the-badge&logo=JavaScript&logoColor=white">
+<!--   </a> -->
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=sql&logoColor=white"></a>
 <a href="https://www.selenium.dev/"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-green?style=for-the-badge&logo=sql&logoColor=white"></a>
+</p>
 <p>
 <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=sql&logoColor=white">
 <img alt="Css" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=sql&logoColor=white">
  <img alt="cyber security" src="https://img.shields.io/badge/cyber security-black?style=for-the-badge&logo=sql&logoColor=white">
+ 
 </p>
 </details>
 <br/>
