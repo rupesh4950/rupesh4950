@@ -30,7 +30,7 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
 <!--    <a href="https://www.python.org" target="_blank"> -->
-    <img alt="" src="https://img.shields.io/badge/JavaScripty-3776AB?style=for-the-badge&logo=JavaScript&logoColor=white">
+    <img alt="" src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=JavaScript&logoColor=white">
 <!--   </a> -->
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=sql&logoColor=white"></a>
 <a href="https://www.selenium.dev/"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-green?style=for-the-badge&logo=sql&logoColor=white"></a>
