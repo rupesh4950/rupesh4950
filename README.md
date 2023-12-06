@@ -33,6 +33,7 @@
     <img alt="" src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=JavaScript&logoColor=white">
 <!--   </a> -->
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=sql&logoColor=white"></a>
+<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-red?style=for-the-badge&logo=MySql&logoColor=white"></a>
 <a href="https://www.selenium.dev/"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-green?style=for-the-badge&logo=sql&logoColor=white"></a>
 </p>
 <p>
