@@ -33,7 +33,7 @@
     <img alt="" src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=JavaScript&logoColor=white">
 <!--   </a> -->
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=sql&logoColor=white"></a>
-<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-red?style=for-the-badge&logo=MySql&logoColor=white"></a>
+<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySql&logoColor=white"></a>
 <a href="https://www.selenium.dev/"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-green?style=for-the-badge&logo=sql&logoColor=white"></a>
 <a href="https://testng.org/"><img alt="TestNg" src="https://img.shields.io/badge/TestNg-yellow?style=for-the-badge&logo=TestNg&logoColor=white"></a>
 </p>
@@ -41,6 +41,8 @@
 <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=sql&logoColor=white">
 <img alt="Css" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=sql&logoColor=white">
  <img alt="cyber security" src="https://img.shields.io/badge/cyber security-black?style=for-the-badge&logo=sql&logoColor=white">
+ <img alt="JDBC" src="https://img.shields.io/badge/JDBC-blue?style=for-the-badge&logo=JDBC&logoColor=white">
+  <img alt="Css" src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring&logoColor=white">
  
 </p>
 </details>
