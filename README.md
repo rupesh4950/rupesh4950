@@ -15,7 +15,7 @@
 <br>
 - 🌱 I’m currently learning cyber security.
 <br>
-- 👯 I’m looking to collaborate on automation tools.
+- 👯 I’m looking to collaborate on Cyber security and Ethical hacking.
 <br >
 - 📫 How to reach me: <a href="mailto:mekalarupesh7981842197@gmail.com"><p>mekalarupesh7981842197@gmail.com</p></a>.
 <br>
