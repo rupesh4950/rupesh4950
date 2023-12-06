@@ -49,7 +49,7 @@
 </details>
 <br/>
 <hr>
-#<h2> 📊 GitHub Stats:</h2>
+<h2> 📊 GitHub Stats:</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=rupesh4950&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupesh4950&theme=dark&hide_border=false"/><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh4950&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
