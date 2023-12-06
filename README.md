@@ -40,9 +40,10 @@
 <p>
 <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=sql&logoColor=white">
 <img alt="Css" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=sql&logoColor=white">
- <img alt="cyber security" src="https://img.shields.io/badge/cyber security-black?style=for-the-badge&logo=sql&logoColor=white">
+ <img alt="cyber security" src="https://img.shields.io/badge/cyber security-black?style=for-the-badge&logo=CyberSecurity&logoColor=white">
+  <img alt="Ethical Hacking" src="https://img.shields.io/badge/Ethical Hacking-black?style=for-the-badge&logo=EthicalHacking&logoColor=white">
  <img alt="JDBC" src="https://img.shields.io/badge/JDBC-blue?style=for-the-badge&logo=JDBC&logoColor=white">
-  <img alt="Css" src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring&logoColor=white">
+ <img alt="Spring" src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring&logoColor=white">
  
 </p>
 </details>
