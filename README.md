@@ -54,7 +54,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupesh4950&theme=dark&hide_border=false"/><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh4950&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 <hr>
-
+✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 <!-- Means Page-->
 <h2><abbr title="Refresh page get new Meme 😂">😂 Memes for this Movement </abbr></h2>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
