@@ -44,6 +44,12 @@
   <img alt="Ethical Hacking" src="https://img.shields.io/badge/Ethical Hacking-black?style=for-the-badge&logo=EthicalHacking&logoColor=white">
  <img alt="JDBC" src="https://img.shields.io/badge/JDBC-blue?style=for-the-badge&logo=JDBC&logoColor=white">
  <img alt="Spring" src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring&logoColor=white">
+ <img alt="Automation testing " src="https://img.shields.io/badge/Automation Testing(Java)-red?style=for-the-badge&logo=Automation&logoColor=white">
+ <img alt="Automation testing " src="https://img.shields.io/badge/Automation Testing(Python)-blue?style=for-the-badge&logo=Automation&logoColor=white">
+  <img alt="Manual testing " src="https://img.shields.io/badge/Manual Testing-gray?style=for-the-badge&logo=Automation&logoColor=white">
+
+
+
  
 </p>
 </details>
