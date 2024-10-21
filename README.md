@@ -11,7 +11,7 @@
 <br>
 - 💼 I'm currently working as associate software engineer in Fireflink
 <br>
-- 🔭 I’m currently working on Java Selenium.
+- 🔭 I’m currently working on Java Spring boot and React Js.
 <br>
 - 🌱 I’m currently learning cyber security.
 <br>
@@ -70,8 +70,20 @@
 <hr>
 <p>
  <h2>Join with me </h2>
+<img 
+    src="https://tryhackme-badges.s3.amazonaws.com/rupesh4950.png?update=2" 
+    alt="Your Image Badge" 
+    style="width: 250px; 
+           height: auto; 
+           border: 2px solid #4CAF50; 
+           border-radius: 8px; 
+           box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+           transition: transform 0.2s;" 
+    onmouseover="this.style.transform='scale(1.05)';" 
+    onmouseout="this.style.transform='scale(1)';" 
+/>
 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/rupesh4950.png" alt="TryHackMe">
+
   <p>
  <a href="https://leetcode.com/MRUPESH/"> <img src="./asserts/leetcode.svg" height="50" width="50"> <b>Leat code</b></a>
 
