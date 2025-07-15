@@ -17,7 +17,7 @@ a88aaaa8P' dP    dP 88d888b. .d8888b. .d8888b. 88d888b.
 <p align='center'>
 </p>    
  
-   <a href="https://www.linkedin.com/in/rupesh4950" target="_blank">
+   <a href="https://www.linkedin.com/in/rupesh-mekala" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     
   </a> 
