@@ -108,7 +108,7 @@ a88aaaa8P' dP    dP 88d888b. .d8888b. .d8888b. 88d888b.
 </p>
 <hr>
 <abbr title="If you are intrusted"><p align="center"><h1>Visitors count</h1></p></abbr>
-<p align ="center"><img src="https://profile-counter.glitch.me/rupesh4950/count.svg"></p>
+<p align ="center"><img src="https://views.igorkowalczyk.dev/api/badge/rupesh4950"></p>
 
 
 
